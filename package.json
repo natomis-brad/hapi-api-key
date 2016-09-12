@@ -34,6 +34,6 @@
   ],
   "scripts": {
     "lint": "eslint .",
-    "test": "lab -e test"
+    "test": "lab --leaks -e test"
   }
 }
