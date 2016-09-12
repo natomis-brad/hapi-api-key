@@ -1,16 +1,16 @@
 {
   "name": "hapi-api-key",
-  "version": "1.1.0",
-  "description": "Authentication strategy for API keys",
+  "version": "1.0.0",
+  "description": "Authentication strategy for API keys - forked from firstandthird/hapi-api-key",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firstandthird/hapi-api-key.git"
+    "url": "https://github.com/natomis-brad/hapi-api-key.git"
   },
   "bugs": {
-    "url": "https://github.com/firstandthird/hapi-api-key/issues"
+    "url": "https://github.com/natomis-brad/hapi-api-key/issues"
   },
-  "homepage": "https://github.com/firstandthird/hapi-api-key",
+  "homepage": "https://github.com/natomis-brad/hapi-api-key",
   "dependencies": {
     "boom": "^3.2.2",
     "hoek": "^4.0.1"

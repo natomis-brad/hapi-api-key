@@ -1,6 +1,6 @@
 
-1.1.0 / 2016-08-19
+1.0.0 / 2016-08-19
 ==================
 
-  * updated eslint dependency
-  * allows you to specify 'strategy'
+  * forked from https://github.com/firstandthird/hapi-api-key
+  * I wanted to use object arrays for api keys
